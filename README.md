@@ -1,1 +1,1 @@
-                                 Tic Tac Toe Game using Minmax Algorithm
+                                       Tic Tac Toe Game using Minmax Algorithm
